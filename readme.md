@@ -79,7 +79,7 @@ Some useful links
 
 * [rpclib](https://github.com/rpclib/rpclib) - modern C++ msgpack-RPC server and client library.
 
-* [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
+* [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
 
 * [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server Library [...]
 

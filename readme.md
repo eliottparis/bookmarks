@@ -73,6 +73,20 @@ Some useful links
 
 * [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server library.
 
+* [http-server](https://github.com/mpapierski/http-server) - 100% async http-server library written in C.
+
+* [http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c.
+
+* [rpclib](https://github.com/rpclib/rpclib) - modern C++ msgpack-RPC server and client library.
+
+* [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
+
+* [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server Library [...]
+
+* [libclub](https://github.com/inetic/libclub) - Lightweight Peer-to-Peer networking engine for real time applications.
+
+* [libyojimbo](https://github.com/networkprotocol/libyojimbo) - A library for creating secure client/server network protocols over UDP
+
 ## Test
 *Test frameworks and libraries.*
 

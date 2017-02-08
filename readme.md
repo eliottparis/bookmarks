@@ -16,9 +16,17 @@ Some useful links
 
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
 
-* [Thelonius](https://github.com/spectaclelabs/thelonious) - A C++11 audio DSP library
+* [Thelonius](https://github.com/spectaclelabs/thelonious) - A C++11 audio DSP library.
 
-* [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++
+* [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++.
+
+* [stk](https://github.com/thestk/stk) - The Synthesis ToolKit in C++ [...].
+
+* [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework [...].
+
+* [std_dsp](https://github.com/johanofverstedt/std_dsp) - C++ template library for standard DSP data structures and algorithms.
+
+* [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 
 ## JSON
 *JSON libraries.*

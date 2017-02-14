@@ -95,6 +95,8 @@ Some useful links
 
 * [libyojimbo](https://github.com/networkprotocol/libyojimbo) - A library for creating secure client/server network protocols over UDP
 
+* [cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication [...]
+
 ## Test
 *Test frameworks and libraries.*
 
